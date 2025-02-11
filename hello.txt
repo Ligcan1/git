@@ -8,3 +8,4 @@ myfirstChange
 secondChange
 the is hot-fix
 master change
+hot-fix change
