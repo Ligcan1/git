@@ -7,3 +7,4 @@ helloGit!
 myfirstChange
 secondChange
 the is hot-fix
+hot-fix change
